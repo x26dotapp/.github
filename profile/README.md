@@ -14,12 +14,6 @@ This GitHub is where I organize active builds, experiments, releases, and long-t
 - Creative and media-related asset systems
 - Ongoing experiments and in-progress builds
 
-## Related Projects
-
-- **x26dotgames** — gaming, streaming, and related creative content
-- **OffKeyVibes** — original music, release archives, and visual branding
-- **SWEETEdotSOCiAL** — social link and profile-sharing platform experiments
-
 ## Purpose
 
 This page reflects the public builder side of **x26dotapp** — creating, testing, shipping, and structuring systems over time.
