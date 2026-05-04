@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="../assets/profile-banner.png" alt="x26dotapp banner" width="100%" />
+  <img src="./profile-banner.jpg" alt="x26dotapp banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="../assets/profile-profile.png" alt="x26dotapp profile picture" width="140" />
+  <img src="./profile-pic.jpg" alt="x26dotapp profile picture" width="140" />
 </p>
 
 <h1 align="center">x26dotapp</h1>
