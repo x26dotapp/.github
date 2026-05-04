@@ -1,6 +1,16 @@
-# x26dotapp
+<p align="center">
+  <img src="../assets/profile-banner.png" alt="x26dotapp banner" width="100%" />
+</p>
 
-I build things.
+<p align="center">
+  <img src="../assets/profile-profile.png" alt="x26dotapp profile picture" width="140" />
+</p>
+
+<h1 align="center">x26dotapp</h1>
+
+<p align="center">
+  I build things.
+</p>
 
 Apps, tools, websites, systems, archives, and brands — whatever helps turn ideas into something real.
 
