@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="/profile-banner.jpg" alt="x26dotapp banner" width="100%" />
-</p>
-
-<p align="center">
   <img src="/profile-pic.jpg" alt="x26dotapp profile picture" width="140" />
 </p>
 
@@ -27,3 +23,7 @@ This GitHub is where I organize active builds, experiments, releases, and long-t
 ## Purpose
 
 This page reflects the public builder side of **x26dotapp** — creating, testing, shipping, and structuring systems over time.
+
+<p align="center">
+  <img src="/profile-banner.jpg" alt="x26dotapp banner" width="100%" />
+</p>
