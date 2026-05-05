@@ -1,8 +1,4 @@
-<h1 align="center">x26dotapp</h1>
-
-<p align="center">
-  <img src="/profile-pic.jpg" alt="x26dotapp profile picture" width="140" />
-</p>
+<h1 align="center">x26dotapp</br></br><img src="/profile-pic.jpg" alt="x26dotapp profile picture" width="140" /></br></br></h1>
 
 <p align="center">
   I build things.
